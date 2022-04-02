@@ -6,7 +6,7 @@ Use simple api to operate dsp
 
 Api Document:https://taoduhui.github.io/ez_dsp/document/ez-dsp
 
-EN|[中文]()
+EN|[中文](/blob/main/README-ZH.md)
 ## import
 
 ## ez_pwm
