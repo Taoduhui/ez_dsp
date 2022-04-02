@@ -4,6 +4,8 @@ A  Lib for Dsp28335
 
 Use simple api to operate dsp
 
+## import
+
 ## ez_pwm
 
 ###  intro
@@ -47,6 +49,8 @@ and this function will be called, when the Counter==0 (default)
 
 or you can call PwmGen_Setup_Use_Interrup_on_XXXX to change the interrupt action
 
+the body is the interrupt function body
+
 ```cpp
 PwmGen_Event_Pwm(2){
 
@@ -59,8 +63,6 @@ PwmGen_Event_SPwm(1)
 ```
 
 **Run as Spwm Mode**
-
-the body is the interrupt function body
 
 After the Interrupt functions, if you want to let some ePwm work at Spwm mode
 
