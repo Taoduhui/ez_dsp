@@ -6,7 +6,7 @@
 
 Api文档:https://taoduhui.github.io/ez_dsp/document/ez-dsp
 
-[EN]((README.md))|中文
+[EN](README.md)|中文
 
 ## 导入
 
