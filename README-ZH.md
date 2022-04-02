@@ -4,6 +4,8 @@
 
 使用简洁的api操作dsp
 
+Api文档:https://taoduhui.github.io/ez_dsp/document/ez-dsp
+
 ## 导入
 
 ## ez_pwm

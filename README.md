@@ -4,6 +4,9 @@ A  Lib for Dsp28335
 
 Use simple api to operate dsp
 
+Api Document:https://taoduhui.github.io/ez_dsp/document/ez-dsp
+
+EN|[中文]()
 ## import
 
 ## ez_pwm
