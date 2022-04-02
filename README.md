@@ -93,7 +93,7 @@ if you has called the corresponding PwmGen_Setup_Use_Pwm macro function in the d
 Finally you should call the macro function `PwmGen_Setup_By_Config([The_ePwm_Number])` or
   `PwmGen_Setup_By_Config_As_SpwmGen([The_ePwm_Number],SpwmUseTimSeq,SpwmRefresh_us)` to Setup the ePwm
 
- the parameter `SpwmUseTimSeq` and `SpwmRefresh_us` should not passed into directly
+ the parameter `SpwmUseTimSeq` and `SpwmRefresh_us` should not passing directly
   
  if you want to modify the TimerNumber or the SpwmRefreshTime, you should modify the macro definitions at PwmGen Config Area
 
