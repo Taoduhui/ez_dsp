@@ -200,7 +200,7 @@ struct PwmGen_GlobalSpwmExtensionParameter
     if (PwmGen_GlobalSpwmParameter.IsInitedTim == 0)                     \
     {                                                                    \
         Tim_Use_Timer(SpwmUseTimSeq, SpwmRefresh_us);                    \
-        TIM_StartTimer(SpwmUseTimSeq);                                   \
+        Tim_StartTimer(SpwmUseTimSeq);                                   \
         PwmGen_GlobalSpwmParameter.IsInitedTim = 1;                      \
     }                                                                    \
     EALLOW;                                                              \
