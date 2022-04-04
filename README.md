@@ -23,7 +23,8 @@ EN|[中文](README-ZH.md)
    7. - [ ] spwm or svpwm sin phase offset
 2. - [ ] ez-tim
    1. - [x] base handler
-   2. - [ ] Automatic Pre-Scale
+   2. - [ ] Global Timer Share
+   3. - [ ] Automatic Pre-Scale
 3. - [ ] ez-gpio
    1. - [ ] gpio base handler
 4. - [ ] ez-adc
