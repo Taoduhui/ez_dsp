@@ -7,6 +7,36 @@ Use simple api to operate dsp
 Api Document:https://taoduhui.github.io/ez_dsp/document/ez-dsp
 
 EN|[中文](README-ZH.md)
+
+
+-------
+
+## progress
+
+1. - [ ] ez_pwm 
+   1. - [x] pwm basic handler
+   2. - [x] spwm basic handler
+   3. - [ ] svpwm basic handler
+   4. - [ ] foc basic handler
+   5. - [ ] Automatic Pre-Scale to support f>1KHz
+   6. - [ ] ePwm Channel B Free Control
+   7. - [ ] spwm or svpwm sin phase offset
+2. - [ ] ez-tim
+   1. - [x] basic handler
+   2. - [ ] Global Timer Share
+   3. - [ ] Automatic Pre-Scale
+3. - [ ] ez-gpio
+   1. - [ ] gpio basic handler
+4. - [ ] ez-adc
+5. - [ ] ez-sci
+6. - [ ] ez-spi
+7. - [ ] ez-i2c
+8. - [ ] ez-qep
+9. - [ ] ez-cap  
+
+------
+
+
 ## import
 
 ## ez_pwm
