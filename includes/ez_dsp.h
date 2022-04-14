@@ -12,5 +12,7 @@
 #include <ez_pwm.h>
 #include <ez_sys.h>
 #include <ez_tim.h>
+#include <ez_adc.h>
+#include <ez_gpio.h>
 
 #endif /* CUSTOM_EZ_DSP_H_ */
